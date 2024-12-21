@@ -27,7 +27,6 @@
 -**Enlace:** https://docs.google.com/document/d/1rRjWwyGHMCqwztpg8FQPczTqKnm82V3CuuK117WcfbE/edit
 
 
-
 ### Proyecto 3: Desarrollo Empresarial
 
 -**Descripción:** Gestión por Procesos
@@ -35,10 +34,9 @@
 -**Enlace:** https://docs.google.com/document/d/189rzURKsgrdElxad8dBZifRZ_GUdBsmZejrLJEOlhrk/edit
 
 
-
-
 ### Proyecto 4: MoProsoft
 
 -**Descripción:** Actividades, Artefactos y Roles
 
--**Enlace:** https://docs.google.com/document/d/1bYCr95ytHXMV83ERwtt-hjbbKP-3mcsVkbe4qa-KrdI/edit
+-**Enlace:** 
+https://docs.google.com/document/d/1bYCr95ytHXMV83ERwtt-hjbbKP-3mcsVkbe4qa-KrdI/edit
