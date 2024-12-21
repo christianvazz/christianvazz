@@ -1,16 +1,12 @@
-## Hi there 👋
+## Christian
 
-<!--
-**christianvazz/christianvazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Información Personal
+-**Nombre:** Christian Vázquez García
+-**Correo:** cv9400035@gmail.com
+-**Universidad:** UMCC
+-**Carrera:** Ing. Informática
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Realizados
+### Proyecto 1: Desarrollo de la literatura en Cuba XVII - XIX
+-**Descripción:** La literatura cubana como una de las más prolíficas, relevantes e influyentes de América Latina.
+-**Enlace:** https://docs.google.com/document/d/13UH8cs9TMuIPmV9kLTZJKQ7bK-R2QOw3ULTkSbUf0fs/edit
