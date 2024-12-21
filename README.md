@@ -1,4 +1,4 @@
-# Christian
+# Optativa 1
 
 ## Información Personal
 
@@ -8,10 +8,10 @@
 
 -**Universidad:** UMCC
 
--**Carrera:** Ing. Informática
+-**Carrera:** Ing. Informática 3er Semestre
 
 
-## Proyectos Realizados
+## Proyecto Realizado
 
 ### Proyecto 1: Desarrollo de la literatura en Cuba XVII - XIX
 
